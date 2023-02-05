@@ -1,0 +1,4 @@
+create table KNOWN_FRUITS(
+ID BIGSERIAL primary KEY,
+NAME TEXT
+);
